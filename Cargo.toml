@@ -1,0 +1,6 @@
+[package]
+name = "wgrep"
+version = "0.1.0"
+authors = ["jd <jean.daniel.michaud@gmail.com>"]
+
+[dependencies]
